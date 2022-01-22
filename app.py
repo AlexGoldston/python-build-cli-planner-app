@@ -1,6 +1,6 @@
 from src.database import add_reminder, list_reminders
 
-#asd @TODO: check repo working
+#@TODO: check repo working >> confirmed working
 
 def handle_input():
     choice = input("Choice: ")
